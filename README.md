@@ -128,5 +128,3 @@ If you'd like to contribute to this project:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-Feel free to customize the repository details, like the link to your GitHub repo or screenshots of the app, to make the `README` fit your project more accurately.
